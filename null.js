@@ -7,4 +7,4 @@
 let one = null;
 const twoo = null;
 
-console.log(one, twoo)
+console.log(typeof one)
