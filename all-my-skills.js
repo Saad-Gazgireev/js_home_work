@@ -8,4 +8,3 @@ let output = 'Привет, меня зовут ' + name + ", мне " + myAge +
 console.log(output)
 console.log(`Привет, меня зовут  ${name} ${lastName} и я ${year - myAge} года рождения`)
 
-
