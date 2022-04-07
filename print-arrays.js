@@ -41,3 +41,4 @@ let arraysNum = [
     [4,5,6],
 ]
 console.log(arraysNum[0][0] * arraysNum[1][2])
+
